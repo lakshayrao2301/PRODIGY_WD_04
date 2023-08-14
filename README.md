@@ -1,4 +1,4 @@
-<!-- # codeclause_portfolio_website
+<!-- # portfolio_website
 I developed the portfolio website using html css javascript.
 
 This was a website built to showcase my technical skills, web design skills.
@@ -7,7 +7,7 @@ This was a website built to showcase my technical skills, web design skills.
 # Portfolio Website
 This repository contains the source code and assets for a portfolio website built using HTML, JavaScript, and CSS.
 
-Link : https://lakshayrao2301.github.io/OIBSIP-Level-1-Task-2-Portfolio/
+Link : https://lakshayrao2301.github.io/PRODIGY_WD_04/
 
 The website serves as a showcase for your work and provides information about your skills, projects, and contact details.
 
